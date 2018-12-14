@@ -20,7 +20,7 @@ syntax on
 set hidden
 
 " Confirm save on exit
-" set confirm
+set confirm
 " set autowriteall
 
 " Command-line completion
