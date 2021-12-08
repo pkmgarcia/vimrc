@@ -20,7 +20,7 @@ syntax on
 set hidden
 
 " Confirm save on exit
-" set confirm
+set confirm
 " set autowriteall
 
 " Command-line completion
@@ -56,7 +56,7 @@ set visualbell
 set number
 
 " Show whitespace characters (Indents as <I>, Newlines as $) 
-" set list
+set list
 
 " <Tab> inserts two spaces
 set shiftwidth=2
